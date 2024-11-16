@@ -191,7 +191,7 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/kamel-abiad",
+    link: "https://github.com/abdo-ayman8642",
   },
   {
     id: 2,    img: "/twit.svg",
